@@ -2,4 +2,4 @@ gspread
 oauth2client
 requests
 nest-asyncio
-python-telegram-bot[webhooks]
+python-telegram-bot[webhooks,job-queue]

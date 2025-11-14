@@ -3,3 +3,4 @@ oauth2client
 requests
 flask
 python-telegram-bot[job-queue]
+nest_asyncio

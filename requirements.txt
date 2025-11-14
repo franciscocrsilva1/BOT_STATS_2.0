@@ -1,6 +1,7 @@
 # Dependências do Google Sheets
 gspread
-oauth2client  <-- CORRIGIDO!
+oauth2client
+
 # Dependências da API e Bot
 requests
 nest_asyncio

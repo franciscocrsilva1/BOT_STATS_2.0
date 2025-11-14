@@ -1,6 +1,5 @@
 gspread
 oauth2client
 requests
-flask[async]
-python-telegram-bot[job-queue]
-nest_asyncio
+nest-asyncio
+python-telegram-bot[webhooks]

@@ -1,6 +1,6 @@
 gspread
 oauth2client
 requests
-flask
+flask[async]
 python-telegram-bot[job-queue]
 nest_asyncio

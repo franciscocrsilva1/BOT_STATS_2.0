@@ -3,3 +3,4 @@ oauth2client
 requests
 nest-asyncio
 python-telegram-bot[webhooks,job-queue]
+Flask==3.0.0

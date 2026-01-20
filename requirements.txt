@@ -1,5 +1,0 @@
-gspread
-oauth2client
-requests
-nest-asyncio
-python-telegram-bot[job-queue]
